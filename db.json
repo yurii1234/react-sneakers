@@ -1,0 +1,45 @@
+{
+  "favorites": [],
+  "orders": [
+    {
+      "id": "d686",
+      "items": [
+        {
+          "id": "2",
+          "title": "Мужские Кроссовки Nike Air Max 270",
+          "imageUrl": "./images/image2.jpg",
+          "price": 15999
+        },
+        {
+          "id": "5",
+          "title": "Мужские Кроссовки Under Armour Curry 8",
+          "imageUrl": "./images/image5-1.jpg",
+          "price": 9999
+        },
+        {
+          "id": "4",
+          "title": "Кроссовки Puma X Aka Boku Future Rider",
+          "imageUrl": "./images/image3.jpg",
+          "price": 12999
+        }
+      ]
+    },
+    {
+      "id": "f857",
+      "items": [
+        {
+          "id": "1",
+          "title": "Мужские Кроссовки Nike Air Max 270",
+          "imageUrl": "./images/image2.jpg",
+          "price": 15999
+        },
+        {
+          "id": "3",
+          "title": "Кроссовки Puma X Aka Boku Future Rider",
+          "imageUrl": "./images/image3.jpg",
+          "price": 12999
+        }
+      ]
+    }
+  ]
+}
